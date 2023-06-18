@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/rising-gmd?animation=false)
+![](https://leetcard.jacoblin.cool/rising-gmd?animation=true)
