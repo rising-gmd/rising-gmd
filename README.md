@@ -1,5 +1,3 @@
-### LEETCODE 🚀
-
-## This repo shows my leetcode progress
+### LEETCODE Progress 🚀
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rising-gmd)
